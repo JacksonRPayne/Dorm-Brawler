@@ -1,0 +1,772 @@
+fileFormatVersion: 2
+guid: fecbb33048f9f6c42a390fe7a165685a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2436968683401948044
+    second: Idle_0
+  - first:
+      213: -139048174311102845
+    second: Idle_1
+  - first:
+      213: 7352576613185853480
+    second: Idle_2
+  - first:
+      213: 1211295222256092415
+    second: Idle_0
+  - first:
+      213: -2529706501832930535
+    second: Idle_1
+  - first:
+      213: -1908136906467715433
+    second: Idle_2
+  - first:
+      213: -2167052001014129582
+    second: Idle_3
+  - first:
+      213: -2140130043367374919
+    second: Idle_4
+  - first:
+      213: 2734900413408469493
+    second: Idle_5
+  - first:
+      213: 1211295222256092415
+    second: Idle_0
+  - first:
+      213: -2529706501832930535
+    second: Idle_1
+  - first:
+      213: -1908136906467715433
+    second: Idle_2
+  - first:
+      213: 6812427384218633469
+    second: Idle_3
+  - first:
+      213: 2044663509072778756
+    second: Idle_4
+  - first:
+      213: 4427222236664641054
+    second: Idle_5
+  - first:
+      213: 5440468642415568804
+    second: Idle2_0
+  - first:
+      213: -6053274593323219308
+    second: Idle2_1
+  - first:
+      213: -3961571999612046910
+    second: Idle2_2
+  - first:
+      213: 7979134189391260002
+    second: Idle2_3
+  - first:
+      213: -8766602908129374897
+    second: Idle2_4
+  - first:
+      213: -2210726004959729132
+    second: Idle2_5
+  - first:
+      213: 1211295222256092415
+    second: Idle_0
+  - first:
+      213: -2529706501832930535
+    second: Idle_1
+  - first:
+      213: -1908136906467715433
+    second: Idle_2
+  - first:
+      213: 6812427384218633469
+    second: Idle_3
+  - first:
+      213: 2044663509072778756
+    second: Idle_4
+  - first:
+      213: 4427222236664641054
+    second: Idle_5
+  - first:
+      213: 1211295222256092415
+    second: Zach_0
+  - first:
+      213: -2529706501832930535
+    second: Zach_1
+  - first:
+      213: -1908136906467715433
+    second: Zach_2
+  - first:
+      213: 6812427384218633469
+    second: Zach_3
+  - first:
+      213: 2044663509072778756
+    second: Zach_4
+  - first:
+      213: 4427222236664641054
+    second: Zach_5
+  - first:
+      213: 5440468642415568804
+    second: Zach_6
+  - first:
+      213: -6053274593323219308
+    second: Zach_7
+  - first:
+      213: -3961571999612046910
+    second: Zach_8
+  - first:
+      213: 7979134189391260002
+    second: Zach_9
+  - first:
+      213: -8766602908129374897
+    second: Zach_10
+  - first:
+      213: 2436968683401948044
+    second: Zach_0
+  - first:
+      213: -139048174311102845
+    second: Zach_1
+  - first:
+      213: 7352576613185853480
+    second: Zach_2
+  - first:
+      213: -2167052001014129582
+    second: Zach_3
+  - first:
+      213: -2140130043367374919
+    second: Zach_4
+  - first:
+      213: 2734900413408469493
+    second: Zach_5
+  - first:
+      213: -2605899078959495577
+    second: Zach_6
+  - first:
+      213: 8746257809080224815
+    second: Zach_7
+  - first:
+      213: 8405168815910111564
+    second: Zach_8
+  - first:
+      213: 6919923812459080033
+    second: Zach_9
+  - first:
+      213: 4791907024305814109
+    second: Zach_10
+  - first:
+      213: -2210726004959729132
+    second: Zach_11
+  - first:
+      213: -8022357042661174429
+    second: Zach_12
+  - first:
+      213: 5691620588299916924
+    second: Zach_13
+  - first:
+      213: 8732207751059060803
+    second: Jump
+  - first:
+      213: -8244403016026585272
+    second: Hair_0
+  - first:
+      213: -8597339802002791002
+    second: Hair_1
+  - first:
+      213: 6101783682792382805
+    second: Hair_2
+  - first:
+      213: -7431687078197523169
+    second: Hair_4
+  - first:
+      213: -640968107846373895
+    second: Hair_3
+  - first:
+      213: 2486253826157819423
+    second: Hair_5
+  - first:
+      213: -3630549976567933044
+    second: Hair_6
+  - first:
+      213: 7083958887420246376
+    second: Hitstun_0
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Zach_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8bacee1b1ad1d120800000000000000
+      internalID: 2436968683401948044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zach_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38625831c60021ef0800000000000000
+      internalID: -139048174311102845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zach_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82899cc5979990660800000000000000
+      internalID: 7352576613185853480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zach_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25cd0c5cfa51de1e0800000000000000
+      internalID: -2167052001014129582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zach_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf32ff701bbc42e0800000000000000
+      internalID: -2140130043367374919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zach_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1e7459f6154f520800000000000000
+      internalID: 2734900413408469493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zach_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7660a16289cf5dbd0800000000000000
+      internalID: -2605899078959495577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zach_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c86304323f06970800000000000000
+      internalID: 8746257809080224815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zach_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49438d618825a470800000000000000
+      internalID: 8405168815910111564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zach_9
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169e36a4b02880060800000000000000
+      internalID: 6919923812459080033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zach_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a727ccc06408240800000000000000
+      internalID: 4791907024305814109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zach_11
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a28a2596ce151e0800000000000000
+      internalID: -2210726004959729132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zach_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363d3d226ccdaa090800000000000000
+      internalID: -8022357042661174429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zach_13
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c769ae105c2bcfe40800000000000000
+      internalID: 5691620588299916924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348b9c23fa80f2970800000000000000
+      internalID: 8732207751059060803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847839c332ff59d80800000000000000
+      internalID: -8244403016026585272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5eb40300d10b880800000000000000
+      internalID: -8597339802002791002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5516d1d4ee3eda450800000000000000
+      internalID: 6101783682792382805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair_4
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 159
+        height: 128
+      alignment: 9
+      pivot: {x: 0.4025157, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d0d262af75dd890800000000000000
+      internalID: -7431687078197523169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 141
+        height: 128
+      alignment: 9
+      pivot: {x: 0.4539007, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd6673e6e2da17f0800000000000000
+      internalID: -640968107846373895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 176
+        height: 128
+      alignment: 9
+      pivot: {x: 0.36363637, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16b791aea2f08220800000000000000
+      internalID: 2486253826157819423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hair_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 281
+        height: 128
+      alignment: 9
+      pivot: {x: 0.227758, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c879d532802bd9dc0800000000000000
+      internalID: -3630549976567933044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hitstun_0
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869b72063174f4260800000000000000
+      internalID: 7083958887420246376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
